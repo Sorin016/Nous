@@ -1,3 +1,7 @@
 ceva nou
+<<<<<<< Updated upstream
  sau poate nu
 poate sss
+=======
+ sau poate nu
+>>>>>>> Stashed changes
